@@ -1,0 +1,2 @@
+This is a simple to - do list management application. It allows users to create, view, update, and delete their to - do items. Users can set due dates, priorities, and add descriptions for each task, helping them organize their daily tasks more efficiently.
+Prerequisites: This application is developed with Python 3.8 or higher. You need to have Python installed on your system。
